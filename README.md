@@ -2,6 +2,8 @@
 
 A beautiful and customizable QR Code Generator built with React. This application allows users to create QR codes for URLs and email content, customize colors, and even add logos.
 
+# Here is the Live link :
+- https://qr-code-generator-beta-ruddy.vercel.app/
 ## Table of Contents
 
 - [Features](#features)
